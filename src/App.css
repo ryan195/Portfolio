@@ -23,6 +23,15 @@
 .experienceDiv {
     padding: 40px;
     color: black;
+    margin-bottom: 80px;
+    height: 500px;
+}
+
+.projectsDiv {
+    padding: 40px;
+    color: black;
+    margin-bottom: 80px;
+    height: 500px;
 }
 
 .educationDiv {
@@ -30,13 +39,8 @@
     color: black;
 }
 
-.projectsDiv {
-    padding: 40px;
-    color: black;
-}
-
 .frontHeader {
-    font-size: 100px;
+    font-size: 80px;
 }
 
 .resumeButton {
@@ -45,8 +49,4 @@
     background-color: white;
     color: black;
     padding: 10px;
-}
-
-.experienceContent {
-    overflow: auto;
 }
