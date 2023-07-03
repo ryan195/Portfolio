@@ -1,0 +1,23 @@
+.topDiv {
+    margin-top: 20px;
+    background-color: indigo;
+    color: white;
+    padding: 40px;
+}
+
+.aboutMeDiv {
+    padding: 40px;
+    color: black;
+}
+
+.frontHeader {
+    font-size: 80px;
+}
+
+.resumeButton {
+    border-radius: 12px;
+    font-size: 20px;
+    background-color: white;
+    color: black;
+    padding: 10px;
+}

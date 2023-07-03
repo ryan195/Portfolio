@@ -1,6 +1,6 @@
 function Apple() {
     return (
-    <div className="mainDiv">
+    <div>
         <div>
             <h3>Business Data Automation and Supply Chain Analyst</h3>
             <h5>Dec 2022 - Present</h5>
